@@ -1,0 +1,2 @@
+[alias]
+  glogone = "!git log --pretty=format:'%h %s %an'"
