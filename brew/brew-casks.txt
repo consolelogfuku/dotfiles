@@ -1,0 +1,12 @@
+notion
+alfred
+slack
+zoom
+postman
+discord
+mattermost
+warp
+docker
+clipy
+karabiner-elements
+scroll-reverser

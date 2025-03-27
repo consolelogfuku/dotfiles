@@ -1,0 +1,4 @@
+aws/tap
+homebrew/cask-fonts
+jesseduffield/lazygit
+leoafarias/fvm
