@@ -10,3 +10,4 @@ docker
 clipy
 karabiner-elements
 scroll-reverser
+visual-studio-code
