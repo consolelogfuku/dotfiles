@@ -13,7 +13,6 @@ direnv
 expat
 fontconfig
 freetype
-fvm
 gettext
 giflib
 glib
@@ -22,7 +21,6 @@ harfbuzz
 icu4c@76
 jpeg-turbo
 krb5
-lazygit
 libcbor
 libevent
 libfido2
@@ -56,7 +54,6 @@ ncurses
 neovim
 nkf
 nodebrew
-openjdk
 openssl@3
 pcre2
 pixman
@@ -83,3 +80,4 @@ xz
 yarn
 zlib
 zstd
+node
