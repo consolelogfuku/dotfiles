@@ -81,3 +81,6 @@ yarn
 zlib
 zstd
 node
+peco
+go
+ghq
