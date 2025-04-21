@@ -1,0 +1,7 @@
+{
+  "Keymap": {
+    "j": "peco.SelectDown",
+    "k": "peco.SelectUp"
+  }
+}
+
